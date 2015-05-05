@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About this book"
-category: intro
+category: introduction
 date: 2015-05-05 11:44:32
 order: 1
 ---
