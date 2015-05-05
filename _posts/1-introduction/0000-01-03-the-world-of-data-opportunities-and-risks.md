@@ -6,8 +6,6 @@ date: 2015-05-05 12:01:18
 order: 3
 ---
 
-#The world of data: opportunities and risks
-
 ##Data is all around us...
 
 This is the information age. Within international development (and beyond), data is becoming a necessary part of our work; thanks to technological advances, we can deliver, coordinate and communicate faster than ever. To put this into context, a full 90 percent of all the data in the world across history has been generated over the last two years. However, discussions and practices relating to the relevant ethical and political questions around data are not evolving at quite the same rate, and that is where this book comes in.

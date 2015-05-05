@@ -6,11 +6,7 @@ date: 2015-05-05 12:00:25
 order: 2
 ---
 
-#Am I Working with Data?
-
 Yes, you are. Almost certainly. If information is in any way meaningful for the work you do, and if you plug anything into a power source, you are likely working with data.
-
-
 
 ##What is Data?
 
