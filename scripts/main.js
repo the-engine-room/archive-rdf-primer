@@ -1,1 +1,3 @@
-var ann = Annotator(document.body);
+jQuery(function ($) {
+    $('#content').annotator();
+});
