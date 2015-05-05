@@ -19,14 +19,14 @@ codeurl: 'https://github.com/bruth/jekyll-docs-template'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['intro', 'Introduction'],
-    ['design', 'Designing a project'],
-    ['manage', 'Managing data'],
-    ['get', 'Getting data'],
-    ['understand', 'Understanding data'],
-    ['share', 'Sharing data'],
-    ['close', 'Closing a project'],
-    ['resource', 'Additional resources']
+    ['introduction', 'Introduction'],
+    ['designing-a-project', 'Designing a project'],
+    ['managing-data', 'Managing data'],
+    ['getting-data', 'Getting data'],
+    ['understanding-data', 'Understanding data'],
+    ['sharing-data', 'Sharing data'],
+    ['closing-a-project', 'Closing a project'],
+    ['additional-resources', 'Additional resources']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific

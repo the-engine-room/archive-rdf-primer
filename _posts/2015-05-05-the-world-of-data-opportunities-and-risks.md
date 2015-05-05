@@ -1,0 +1,43 @@
+---
+layout: page
+title: "The world of data: opportunities and risks"
+category: introduction
+date: 2015-05-05 12:01:18
+order: 3
+---
+
+#The world of data: opportunities and risks
+
+##Data is all around us...
+
+This is the information age. Within international development (and beyond), data is becoming a necessary part of our work; thanks to technological advances, we can deliver, coordinate and communicate faster than ever. To put this into context, a full 90 percent of all the data in the world across history has been generated over the last two years. However, discussions and practices relating to the relevant ethical and political questions around data are not evolving at quite the same rate, and that is where this book comes in.
+
+Data is used by organisations in all sorts of ways - as information about whom your organisation is serving, statistics about the situation you're operating in, or even counting the number of countries in which your organisation is active. Some organisations working in the development sector have made data their main commodity or service - the UN Global Pulse Labs (http://www.unglobalpulse.org/), for example, analyse big data to accelerate social innovation for sustainable development, and Ushahidi (http://www.ushahidi.com/) have developed a number of data management platforms to allow people to map out what is happening in their area. . [See the section Am I working with data]
+
+##CASE STUDY: Refugee Camp Statistics
+
+A humanitarian organisation is charged with delivering vital services to a refugee camp. In order to do so, they need to know how many people are living in the camp, and what their needs are. It is important to note that once data is collected, it will not go away, and it can be used for purposes that you may never have thought of before. Rather than collecting information on people entering the camp on paper and by hand - a lengthy process, which is difficult to coordinate between the team - they now use a computerised system to keep basic statistics about the people in their camp. This allows them to get the right amount of supplies, reduces waste, and, if done correctly, will mean that all people entering the camp are included and receive the same service.
+
+There's a tremendous amount of excitement about what data might imply for sustainable development. This is evidenced by the call for a global data revolution, and an increasing emphasis on measurement in response to some of the development sector's most intractable challenges. This excitement is important, and is stimulated by real opportunities, but has yet to include a critical debate about the potential harms that accompany increased use of data in development processes. Similarly, the buzz around evidence based decision making has strengthened interest in data and data collection among policy makers, without necessarily strengthening the capacities of data providers to operate responsibly or strenghten the capacities of data subjects.
+
+##Walking the data tightrope : power dynamics
+
+Data exercises power. It can create it, redistribute it, amplify it or disrupt it. It can entrench and privilege certain actors or perspectives, but it can also empower new voices and approaches. It can reveal and unravel atrocities, but it can also expose the vulnerable and marginalized. Responsible data ethics can often account for the difference between these binaries or polar extremes.
+
+Collecting data about someone creates an inherent power imbalance to the extent that the data collector effectively owns a commodity relating intimately to an individual. This much is not new to those familiar with the if it's free, you're the product trope associated largely with social media networks. That data may be financially and practically valuable is widely accepted: that it could also have negative consequences for the data subject, such as whether or not they receive vital services, is less commonly understood.  Similarly, we are familiar with the notion that data in the wrong hands can be dangerous, putting individuals at risk, but perhaps less aware that even in the right hands, there are violations that can arise from individuals being documented or categorised, leading to discrimination or exclusion. This could result in you paying more for a pair of jeans than a neighbor in a different zip code, or getting a higher interest rate because items in a shopping cart signal race or ethnicity.
+
+This sort of algorithmic bias, widely prevalent in the marketing and advertising space, is increasingly finding its way into other kinds of decision making about welfare benefits, immigration, healthcare and other sectors. Does this mean that you forego the opportunities that data presents and the societal benefits that it can facilitate? Sometimes, it just might. It may be that certain kinds of data are just too risky to collect, even as part of a human rights or development effort, for reasons that will be elaborated throughout this book. Or that none of the technical, legal or practical measures adopted to safeguard the data, and more importantly, the people that it relates to, really work. Those are extreme cases, however: usually, it is possible to manage the risks and achieve great successes and gains, while still being sensitive to asymmetries.
+
+Issues of agency, legitimacy and representation pose additional problems in international development: the audience with which you are engaging may not be in a position to make informed choices or provide consent. Often, these communities are already lacking vital services and are unable to access their basic human rights; they might not be aware of the implications of their data being collected or used, have little or no awareness of their digital rights, and even less power to influence the process.
+
+##CASE STUDY: Iris scans
+
+The UNHCR are collecting biometric identification data (iris scans and fingerprints) from Syrian refugees who are living in Jordan, as lots of people arrive having lost their identity papers. The UNHCR have shared this data with the Cairo-Amman bank, so refugee account-holders can now get cash out from special ATMs by simply having their iris scanned, and UNHCR have assured the refugees that the data is staying 'just' between them and the bank. But, if the Jordanian government were to ask for it, the UNHCR would have to hand this data over.
+
+These challenges place an even bigger responsibility in the hands of intermediaries, who need to be aware of the opportunities and risks of the data that they are working with, and to embed sensitivity and responsibility in their data handling practices. However, it is all too easy, within development, to focus on the broader societal benefits that accrue, always for a good cause, and avoid the more problematic, critical discussion of how data is actually being managed or used, and whether they leave communities worse off after certain (arguably) paternalistic interventions than before.
+
+We also see an increasing reliance on quantification: documenting, measuring, monitoring and reporting may be motivated by funders, by governments, by financial incentives or by research goals. This may lead to transformative or even incremental gains that hugely benefit people, but it may be at the expense of more nuanced, qualitative measures that do not override the legitimate rights of the less advantaged who are impacted differently by the collection and use of such finely grained data. Adopting a critical approach to avert a data for data’s sake methodology will go a long way towards ensuring fairness and balance.
+
+Future-proofing is also an issue: what seems unproblematic data right now, for example, may turn out to be very sensitive in the future. Changes to political situations or other ground realities may disproportionately impact certain communities relative to others. Having a long term view and working through various threat models can mitigate some of these risks. Minimizing the data collected can in itself be a responsible measure, regardless of circumstances.
+
+Uncertainty is inevitable in these processes, and there is no perfect solution. There are good questions though, and asking these well in time,  to the people involved, and to other subject matter experts, is always recommended. You may not be able to prevent every possible consequence of a data-intensive world, but being mindful of the particular vulnerabilities and circumstances of the worst off within the communities that you work for and with can go a long way towards averting or containing harm.
