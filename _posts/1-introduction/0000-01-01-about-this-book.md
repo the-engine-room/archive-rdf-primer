@@ -2,8 +2,7 @@
 layout: page
 title: "About this book"
 category: introduction
-date: 2015-05-05 11:44:32
-order: 1
+date: 0000-01-01 11:44:32
 ---
 This book is offered as a first attempt to understand what responsible data means in the context of international development programmes. We have taken a broad view of development, opting not to be prescriptive about who the perfect target audience is for this book. We also anticipate that some of the methods and lessons here may have resonance for related fields and practitioners.
 

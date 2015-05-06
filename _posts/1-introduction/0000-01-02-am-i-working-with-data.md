@@ -2,8 +2,7 @@
 layout: page
 title: "Am I working with data?"
 category: introduction
-date: 2015-05-05 12:00:25
-order: 2
+date: 0000-01-02 12:00:25
 ---
 
 Yes, you are. Almost certainly. If information is in any way meaningful for the work you do, and if you plug anything into a power source, you are likely working with data.

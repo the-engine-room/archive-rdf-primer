@@ -2,8 +2,7 @@
 layout: page
 title: "Why responsible data"
 category: introduction
-date: 2015-05-05 12:01:45
-order: 4
+date: 0000-01-04 12:01:45
 ---
 
 > Responsible data is: "The duty to ensure people’s rights to consent, privacy security and ownership around the information processes of collection, analysis, storage, presentation and reuse of data, while respecting the values of transparency and openness.”
