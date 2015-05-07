@@ -2,7 +2,7 @@
 layout: page
 title: "Dude, where's my data?"
 category: managing-data
-date: 0000-03-01 13:20:10
+date: 0000-03-02 13:20:10
 ---
 
 There are many ways to store data that vary in terms of convenience and security. How you store your data should be measured against the particular risks you or your partners may be facing, and your personal priorities: for example, are you more concerned about data loss, or surveillance? These are extremely important questions. Perhaps it isn't so important to you if authorities have access to your data, but it would be disastrous if the data were somehow destroyed.
