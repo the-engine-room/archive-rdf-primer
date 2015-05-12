@@ -2,7 +2,6 @@
 layout: page
 title: "Misconceptions and common myths"
 category: introduction
-date: 0000-01-05 12:02:04
 ---
 If you are working with data and want to speak about the importance of responsible data, you may run into a number of recurring ideas that get into the way of moving this discussion forward - be it within your organization or in your interaction with other stakeholders, such as donors or beneficiaries of your projects.
 

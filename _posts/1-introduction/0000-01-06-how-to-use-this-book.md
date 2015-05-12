@@ -2,7 +2,6 @@
 layout: page
 title: "How to use this book"
 category: introduction
-date: 0000-01-06 12:02:28
 ---
 
 _Light Bulb designed by A.Dinagar from the Noun Project - www.thenounproject.com_

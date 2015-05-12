@@ -2,7 +2,6 @@
 layout: page
 title: "The world of data: opportunities and risks"
 category: introduction
-date: 0000-01-03 12:01:18
 ---
 
 ##Data is all around us...
