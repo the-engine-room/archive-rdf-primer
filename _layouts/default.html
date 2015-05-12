@@ -7,12 +7,11 @@
 
         <title>{{ site.title }}{% if page.title %} : {{ page.title }}{% endif %}</title>
         <meta name="description" content="{{ site.subtitle }}">
-				
+
         <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,600|Montserrat:400,700' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="{{ site.baseurl }}/css/syntax.css">
         <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-        <!-- <link rel="stylesheet" href="{{ site.baseurl }}//scripts/annotator-full.1.2.10/annotator.min.css"> -->
     </head>
     <body>
 
@@ -65,8 +64,22 @@
         {% if site.google_analytics_id != "" %}
         {% include google_analytics.html %}
         {% endif %}
-        
+
         <script async defer src="https://hypothes.is/embed.js"></script>
+        <!-- Piwik -->
+        <script type="text/javascript">
+          var _paq = _paq || [];
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u=(("https:" == document.location.protocol) ? "https" : "http") + "://www.theengineroom.org/piwik/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', 3]);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+            g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+          })();
+        </script>
+        <!-- End Piwik Code -->
 
         <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> -->
         <!--
