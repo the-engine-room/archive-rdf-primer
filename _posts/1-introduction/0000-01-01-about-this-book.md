@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "About this book"
+title: About this book
 category: introduction
-date: 0000-01-01 11:44:32
+date: {}
+published: true
 ---
+
 This book is offered as a first attempt to understand what responsible data means in the context of international development programmes. We have taken a broad view of development, opting not to be prescriptive about who the perfect target audience is for this book. We also anticipate that some of the methods and lessons here may have resonance for related fields and practitioners.
 
 We suggest a number of questions and issues to consider, but specific responsible data challenges will always be identified through individual project contexts. As such, this book is not authoritative, but is intended to support thoughtful and responsible thinking as the development community grapples with relatively new social and ethical challenges which arise from from data collection and use.
@@ -29,4 +31,7 @@ Shooting a hard drive into space is one way - though not a very environmentally 
 Although we find it easy to deal with extreme cases and dramatic happenings, the nuanced ethical implications of how data changes our relationships with stakeholders and partners in country are harder to track. This book doesn't provide answers to these challenges, but we hope it might help those seeking answers. We'll have to work towards answers as we continue to explore this new frontier. Hopefully, the book does provide some useful starting points, and points out a few exciting options (like the one in the title) that might not be the best responses.
 
 Creative Commons License
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
+International License.
+
+Test
