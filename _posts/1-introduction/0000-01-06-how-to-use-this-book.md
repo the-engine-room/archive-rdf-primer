@@ -1,8 +1,11 @@
 ---
 layout: page
-title: "How to use this book"
+title: How to use this book
 category: introduction
+published: true
 ---
+
+TEST
 
 _Light Bulb designed by A.Dinagar from the Noun Project - www.thenounproject.com_
 
