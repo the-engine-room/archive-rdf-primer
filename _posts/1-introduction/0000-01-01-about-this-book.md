@@ -33,5 +33,3 @@ Although we find it easy to deal with extreme cases and dramatic happenings, the
 Creative Commons License
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License.
-
-Test
