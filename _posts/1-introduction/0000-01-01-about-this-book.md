@@ -2,7 +2,6 @@
 layout: page
 title: About this book
 category: introduction
-date: {}
 published: true
 ---
 
