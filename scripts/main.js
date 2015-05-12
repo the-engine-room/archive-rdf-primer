@@ -1,3 +1,5 @@
+/*
 jQuery(function ($) {
     $('#content').annotator();
 });
+*/
