@@ -1,8 +1,12 @@
 ---
 layout: page
 title: "When to share, when to publish"
-category: sharing-data
+category: "sharing-data"
+published: true
 ---
+
+![chapter-image]({{site.baseurl}}/assets/icons/icon-sharing.png)
+
 Once data is collected, it can be released in a variety of ways, from closed networks within an organisation, to platform-dependent sharing between peer organisations, to publishing with closed licenses, to publishing with fully open licenses. It's often tempting to think that making data available to the widest possible audience is the best way to maximize that data's impact. This approach can also be motivated by the desire to do justice to all the hard work put into collecting, cleaning, verifying and analysing. However, it's worth carefully considering the various forms that sharing can take.
 
 Models for sharing can differ both qualitatively and quantitatively, and there are various levels of sharing that you can adopt. Sharing may be an optional or a mandatory activity, depending on the source of funding or sponsorship, the nature of the organization, the type of data involved and other factors. It can include information about the original exercise and purpose for which the data was collected, but can always be repurposed by others, sometimes for purposes contrary to the project that first shares.
