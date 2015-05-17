@@ -113,3 +113,7 @@ blockquote p {
 	font-size: inherit;
 	line-height: 1.5;
 }
+
+img[alt="chapter-image"] {
+  max-width: 250px;
+}
