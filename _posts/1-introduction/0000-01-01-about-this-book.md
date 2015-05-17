@@ -30,6 +30,3 @@ The team: Kristin Antin (engine room), Rory Byrne (Security First), Tin Geber (t
 Shooting a hard drive into space is one way - though not a very environmentally sustainable way - to get rid of data. It's also an easy, yet seemingly impossible measure, whose consequences we don't fully understand. Responsible data isn't all that different, especially within international development. We operate in an information environment that is powerful and dynamic, and in which the hype and seemingly infinite potential of technology can easily distract us from what might go wrong and what may be lost.
 
 Although we find it easy to deal with extreme cases and dramatic happenings, the nuanced ethical implications of how data changes our relationships with stakeholders and partners in country are harder to track. This book doesn't provide answers to these challenges, but we hope it might help those seeking answers. We'll have to work towards answers as we continue to explore this new frontier. Hopefully, the book does provide some useful starting points, and points out a few exciting options (like the one in the title) that might not be the best responses.
-
-
-TEST TEST TEST
