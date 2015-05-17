@@ -9,6 +9,8 @@ published: true
 
 Yes, you are. Almost certainly. If information is in any way meaningful for the work you do, and if you plug anything into a power source, you are likely working with data.
 
+![]({{site.baseurl}}/assets/1.2.work-with-data-diagram.jpg)
+
 ##What is Data?
 
 When we think of data, we often imagine large amounts of information that are formally collected, stored in a database or stashed in an Excel spreadsheet. Data is any kind of "value that is assigned to a thing", and can take a variety of forms.
