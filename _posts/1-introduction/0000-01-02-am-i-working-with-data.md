@@ -17,7 +17,7 @@ So...this is data:
 
 ![]({{site.baseurl}}/assets/1.2.what-is-data-1.jpg)
 
-    Courtesy of [Jim Makos](https://flic.kr/p/mZfRiz), [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+Courtesy of [Jim Makos](https://flic.kr/p/mZfRiz), [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 As is this:
 
