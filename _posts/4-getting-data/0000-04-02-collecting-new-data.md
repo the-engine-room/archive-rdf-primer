@@ -24,7 +24,7 @@ Designing the data collection process requires asking basic questions about role
 
 The questions above can be used to define specific challenge areas for your project. You might want to **create a table** to map your steps, adding specific approaches and challenges that might arise for each. It would be best if done in a group, on a big sheet of paper. The table below shows examples of what specific approaches might involve.
 
-![]({{site.baseurl}}/4.2.collecting-new-data.png)
+![]({{site.baseurl}}/assets/4.2.collecting-new-data.png)
 
 ###Step 2: Brainstorm risks and responses
 
