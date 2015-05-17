@@ -15,19 +15,19 @@ Yes, you are. Almost certainly. If information is in any way meaningful for the 
 
 When we think of data, we often imagine large amounts of information that are formally collected, stored in a database or stashed in an Excel spreadsheet. Data is any kind of "value that is assigned to a thing", and can take a variety of forms.
 
-So...this is data:
+###So...this is data:
 
 ![]({{site.baseurl}}/assets/1.2.what-is-data-1.jpg)
 
 Courtesy of [Jim Makos](https://flic.kr/p/mZfRiz), [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
-As is this:
+###As is this:
 
 ![]({{site.baseurl}}/assets/1.2.what-is-data-2.png)
 
 Courtesy of [Jeffrey Veen](https://www.flickr.com/photos/veen/490313317/), [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
-But so is this:
+###But so is this:
 
 ![]({{site.baseurl}}/assets/1.2.what-is-data-3.jpeg)
 
