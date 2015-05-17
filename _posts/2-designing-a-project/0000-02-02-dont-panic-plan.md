@@ -45,7 +45,7 @@ It is assumed that practitioners and managers won’t be able to address all thr
 
 The threat model can be organized into a matrix such as this:
 
-![]({{site.baseurl}}/assets/icons/2.3.threat-modelling.png)
+![]({{site.baseurl}}/assets/2.3.threat-modelling.png)
 
 
 Writing these out, and thinking them through at the very start will help you to consider whether you have the resources you need to prevent the most probable risks, as well as the most consequential threats. It also helps you to work out your priorities and how you can meet the most urgent tasks, while being aware of disaster scenarios that might be catastrophic, but are less likely to occur.
