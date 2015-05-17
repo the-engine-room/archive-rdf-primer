@@ -1,9 +1,11 @@
 ---
 layout: page
 title: "For your eyes only...?"
-category: managing-data
-date: 0000-03-03 13:20:10
+category: "managing-data"
+date: {}
+published: true
 ---
+
 
 ##Who can access the data?
 
@@ -35,10 +37,6 @@ A general security principle is to **limit user access to only the minimum amoun
 People should also **only have the minimum permissions that they need to do their job**. To do this, you must identify the broad categories of users and what information they will need to work with. For example, a role such as a remote medical clinic worker on a short term project might only need to access data relevant to the area they are travelling in for a few weeks of their deployment. This means they only need to have access to office files and IT systems which are relevant to that specific area. However, someone working as a country researcher tasked with identifying trends across the country might need access permissions to all of the data in the country for a longer period. Although it might be less work for you to simply give out the widest possible permissions to people, to avoid them having to come back to you and hve them adjusted.  The easy route is not always the most sensible, and doing so could create a lot more work for you in the future.
 
 Access permission also includes items like auditing and controlling who can manipulate, manage and delete data. The person with responsibility for managing and creating access should schedule regular times to audit the users types and remove people who no longer need access - for example, temporary workers such as contractors and interns. Unfortunately this is particularly important for potentially digruntled staff such as workers who are fired - a number of examples exist of people using their old job credentials to illegally access data at their previous roles.
-
-Example of access control and permissions:
-
-
 
 HUMAN RESOURCES: Bear in mind that if you are introducing people to a new set of tools or methods for accessing the data, they will likely require ongoing training sessions and follow up.  
 
