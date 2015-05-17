@@ -1,8 +1,10 @@
 ---
 layout: page
 title: "Don't panic, plan: assessing risks and threats"
-category: designing-a-project
+category: "designing-a-project"
+published: true
 ---
+
 
 When working with data, there are many things that can go wrong, but that does not mean they actually will, or that the consequences will be catastrophic. Taking the time to do a risk assessment can save you a lot of time, and save you from future panics! It will help you identify what is likely and what is consequential, and thereby come up with a rational response. By carrying out a risk assessment, you'll preemptively come up with a number of preventative measures, as well as a back up plan to limit potential harm.
 
@@ -42,6 +44,8 @@ How can risks be reduced or better managed?
 It is assumed that practitioners and managers won’t be able to address all threats at once. They should be prepared to schedule work on project risk assessment and safety planning, alongside project design, implementation, and monitoring and evaluation activities.
 
 The threat model can be organized into a matrix such as this:
+
+![]({{site.baseurl}}/assets/icons/2.3.threat-modelling.png)
 
 
 Writing these out, and thinking them through at the very start will help you to consider whether you have the resources you need to prevent the most probable risks, as well as the most consequential threats. It also helps you to work out your priorities and how you can meet the most urgent tasks, while being aware of disaster scenarios that might be catastrophic, but are less likely to occur.
