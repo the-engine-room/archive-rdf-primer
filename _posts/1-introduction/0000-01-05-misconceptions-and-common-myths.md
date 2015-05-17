@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Misconceptions and common myths"
+title: Misconceptions and common myths
 category: introduction
+published: true
 ---
+
 If you are working with data and want to speak about the importance of responsible data, you may run into a number of recurring ideas that get into the way of moving this discussion forward - be it within your organization or in your interaction with other stakeholders, such as donors or beneficiaries of your projects.
 
 Below are a number of those we have encountered so far and would like to address:
@@ -25,10 +27,9 @@ Responsible data isn't a zero sum game. Sometimes there are trade-offs to make, 
 
 > All our data is encrypted, so it's fine.
 
+![XKCD on Security]http://imgs.xkcd.com/comics/security.png)
 
-
-
-Source: www.xkcd.com
+Source: [XKCD](http://xkcd.com/538/)
 
 There are some great technological tactics that we can use to improve our digital security - but it's rarely infallible. You could encrypt your hard drive in case someone steals it - but what if they steal it, then use physical threats to get the password?
 
