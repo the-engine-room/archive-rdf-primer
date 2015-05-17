@@ -2,7 +2,9 @@
 layout: page
 title: "Am I working with data?"
 category: introduction
+published: true
 ---
+
 
 Yes, you are. Almost certainly. If information is in any way meaningful for the work you do, and if you plug anything into a power source, you are likely working with data.
 
@@ -12,14 +14,16 @@ When we think of data, we often imagine large amounts of information that are fo
 
 So...this is data:
 
-
+1.2.what-is-data-1.jpg
+Courtesy of [Jim Makos](https://flic.kr/p/mZfRiz), [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 
 As is this:
 
-
+1.2.work-with-data-2.png
+Courtesy of [Jeffrey Veen](https://www.flickr.com/photos/veen/490313317/), [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 But so is this:
-
+1.3.work-with-data-3
 
 
 ...if you are studying LOL cats.  
