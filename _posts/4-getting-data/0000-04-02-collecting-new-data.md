@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Collecting New Data"
-category: getting-data
+title: Collecting New Data
+category: "getting-data"
+published: true
 ---
+
 
 ##Designing a data collection process
 
@@ -22,26 +24,13 @@ Designing the data collection process requires asking basic questions about role
 
 The questions above can be used to define specific challenge areas for your project. You might want to **create a table** to map your steps, adding specific approaches and challenges that might arise for each. It would be best if done in a group, on a big sheet of paper. The table below shows examples of what specific approaches might involve.
 
-DIMENSION	SPECIFIC APPROACH
-FROM WHOM	All adults
-HOW	Household surveys, conducted in the local language
-WHO	local enumerators, hired through the national university
-HOW OFTEN	annually
+![]({{site.baseurl}}/4.2.collecting-new-data.png)
 
 ###Step 2: Brainstorm risks and responses
 
 When you have identified some of the specifics, talk about some of the common responsible data challenge areas, such as identification and the social impact of data collection. Do any of these prompt concerns about the methods that you are planning to use to collect data? Write down any potential risks that occur to the team during discussion and note any potential responses that might help to manage those risks.
 
-CHALLENGE AREAS	POTENTIAL RISKS	POTENTIAL RESPONSES
-Personal privacy and anonymity
-
-Agency and data empowerment
-
-Social Impact of data collection
-
-...
-
-...
+![]({{site.baseurl}}/assets/4.2.challenge-areas.png)
 
 ##Deciding what data to collect
 
@@ -70,6 +59,8 @@ Some projects will use "live data", which is collected, accessed, reviewed, used
 The first step is to clearly define **who should have access to exactly what data at which point**. For example, during the registration process, you may have intake staff (consider maybe these staff are volunteers or interns) who should be able to create new registration records but should not have access to detailed assessment information (which may contain sensitive information) about the subject. In this example, it could be that only case workers should have access to detailed assessment information on the subject. If referring a subject to another agency, that agency may receive a specific sub-set of information on the subject as to protect sensitive or non-relevant information.
 
  TOOLS: Create a Roles-Responsibilities-Functionality Map to help you identify who should do what and when. Here is an example:
+
+![]({{site.baseurl}}/assets/4.2.roles-responsibilities.png)
 
 
 ###Access to data throughout the micro-cycle
