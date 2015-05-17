@@ -2,7 +2,6 @@
 layout: page
 title: "Power to the people"
 category: getting-data
-date: 0000-04-04 13:20:10
 ---
 
 Sometimes, it is easy to get caught up in the technical aspects of collecting and managing data, and forget that we are working with information about human beings and their lives. It is crucial to be responsible, open, transparent and inclusive in the data collection process, creating clear mechanisms for engagement and feedback, and always keeping in mind who is being described and who, ultimately, should have the last word.

@@ -2,7 +2,6 @@
 layout: page
 title: "Project Design Resources"
 category: additional-resources
-date: 0000-08-02 13:20:10
 ---
 **Privacy Impact Assessments Handbook (Information Commissioner's Office (UK))** http://www.ico.org.uk/upload/documents/pia_handbook_html_v2/files/PIAhandbookV2.pdf
 

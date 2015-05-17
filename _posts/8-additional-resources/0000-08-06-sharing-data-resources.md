@@ -2,7 +2,6 @@
 layout: page
 title: "Sharing Data Resources"
 category: additional-resources
-date: 0000-08-06 13:20:10
 ---
 **A Qualitative Risk Assessment Framework for Sharing Computer Network Data (Scott E. Coull RedJack Erin Kenneally)**
 http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2032315.

@@ -2,7 +2,6 @@
 layout: page
 title: "Managing bias and assumptions"
 category: understanding-data
-date: 0000-05-02 13:20:10
 ---
 ##Can I trust what my data set is telling me?
 

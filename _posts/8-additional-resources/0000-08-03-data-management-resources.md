@@ -2,7 +2,6 @@
 layout: page
 title: "Data Management Resources"
 category: additional-resources
-date: 0000-08-03 13:20:10
 ---
 **De-identification Maturity Model (Privacy Analytics)**
 http://waelhassan.com/wp-content/uploads/2013/06/DMM-Khaled-El-Emam-Wael-Hassan.pdf

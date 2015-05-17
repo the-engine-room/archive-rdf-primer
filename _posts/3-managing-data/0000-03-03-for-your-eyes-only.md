@@ -1,9 +1,13 @@
 ---
 layout: page
 title: "For your eyes only...?"
+<<<<<<< Updated upstream
 category: "managing-data"
 date: {}
 published: true
+=======
+category: managing-data
+>>>>>>> Stashed changes
 ---
 
 

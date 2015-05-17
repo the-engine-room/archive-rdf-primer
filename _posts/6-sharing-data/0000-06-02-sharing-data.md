@@ -2,7 +2,6 @@
 layout: page
 title: "Sharing Data"
 category: sharing-data
-date: 0000-06-02 13:20:10
 ---
 After considering the points in the previous chapter, you may have come to the conclusion that your data can be responsibly released into the wild, at some level. The next sections are designed to help you think about the different groups you can share with, and the appropriate checks and balances you should consider for each level of dissemination.
 

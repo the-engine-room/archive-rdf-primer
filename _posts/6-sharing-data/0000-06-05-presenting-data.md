@@ -2,7 +2,6 @@
 layout: page
 title: "Presenting data"
 category: sharing-data
-date: 0000-06-05 13:20:10
 ---
 ##Power and the visual
 

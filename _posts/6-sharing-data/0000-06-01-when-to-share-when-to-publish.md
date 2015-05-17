@@ -2,7 +2,6 @@
 layout: page
 title: "When to share, when to publish"
 category: sharing-data
-date: 0000-06-01 13:20:10
 ---
 Once data is collected, it can be released in a variety of ways, from closed networks within an organisation, to platform-dependent sharing between peer organisations, to publishing with closed licenses, to publishing with fully open licenses. It's often tempting to think that making data available to the widest possible audience is the best way to maximize that data's impact. This approach can also be motivated by the desire to do justice to all the hard work put into collecting, cleaning, verifying and analysing. However, it's worth carefully considering the various forms that sharing can take.
 

@@ -2,7 +2,6 @@
 layout: page
 title: "Publishing Data"
 category: sharing-data
-date: 0000-06-03 13:20:10
 ---
 So you want to publish your data - here we'll take a look at various options for formats, platforms to use, licensing and whether or not to make the data 'open'.
 

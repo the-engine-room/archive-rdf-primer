@@ -2,7 +2,6 @@
 layout: page
 title: "Anonymising data"
 category: sharing-data
-date: 0000-06-04 13:20:10
 ---
 Data can have real consequences for real people, and often these consequences are as unintended as they are harmful. This is regularly the case when Personally Identifiable Information (PII) is published, or when seemingly innocuous data is mashed and collated with other data sets. This is why it is very important to try and anonymise information before publishing in any way at all.  However, there are many cases where efforts to anonymise have also failed.
 

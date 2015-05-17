@@ -2,7 +2,6 @@
 layout: page
 title: "Verifying and Cleaning Data"
 category: understanding-data
-date: 0000-05-01 13:20:10
 ---
 In a perfect world your data would live in neat boxes, tagged, categorised and compiled, ready for perusal and analysis. Unfortunately, real life data collection is often messy, disorganised, uncategorised, jumbled and knotted. We might, for example, have online surveys with manual input, where the surveyors enter slightly different definitions of the same thing, making it impossible to clearly categorise, even if the two data points should clearly belong together.
 

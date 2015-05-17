@@ -2,7 +2,6 @@
 layout: page
 title: "Existing Data Policies and Guidelines"
 category: additional-resources
-date: 0000-08-07 13:20:10
 ---
 **InterAction Protection Working Group: Data Collection in Humanitarian Response - A Guide for Incorporating Protection**
 http://pqdl.care.org/Practice/Data%20Collection%20in%20Humanitarian%20Response,%20A%20Guide%20for%20Incorporating%20Protection.pdf

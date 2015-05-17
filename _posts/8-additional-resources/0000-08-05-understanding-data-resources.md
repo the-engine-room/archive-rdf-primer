@@ -2,7 +2,6 @@
 layout: page
 title: "Understanding Data Resources"
 category: additional-resources
-date: 0000-08-05 13:20:10
 ---
 **A gentle introduction to cleaning data (School of Data)**
 http://schoolofdata.org/handbook/courses/data-cleaning/

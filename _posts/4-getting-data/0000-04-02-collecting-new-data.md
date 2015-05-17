@@ -2,7 +2,6 @@
 layout: page
 title: "Collecting New Data"
 category: getting-data
-date: 0000-04-02 13:20:10
 ---
 
 ##Designing a data collection process

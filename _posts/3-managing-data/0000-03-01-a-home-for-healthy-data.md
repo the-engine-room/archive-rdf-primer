@@ -2,7 +2,6 @@
 layout: page
 title: "A home for healthy data"
 category: managing-data
-date: 0000-03-01 13:20:10
 ---
 
 ##Give your data a safe space

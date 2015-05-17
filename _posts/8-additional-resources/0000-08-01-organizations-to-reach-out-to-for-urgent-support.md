@@ -2,7 +2,6 @@
 layout: page
 title: "Organizations to reach out to for urgent support"
 category: additional-resources
-date: 0000-08-01 13:20:10
 ---
 **HIVOS Digital Defenders Emergency Response and Grants**
 If you are a human rights defender, journalist, blogger, activist, NGO or media organisation and you need immediate help to mitigate a digital emergency, check in with Digital Defenders. If  you think something is wrong with your computer, phone or accounts (email, social media, website or other) please get in contact with them. http://digitaldefenders.org

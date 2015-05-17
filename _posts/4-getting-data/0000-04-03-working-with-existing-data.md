@@ -2,7 +2,6 @@
 layout: page
 title: "Working with existing data"
 category: getting-data
-date: 0000-04-03 13:20:10
 ---
 
 Even if your project is not the one that actually collects and creates new data, there are a number of important issues to consider in terms of dealing with data responsibly. Once you have identified appropriate data sets that will support your project activities, there are **three primary areas of responsibility** to consider:

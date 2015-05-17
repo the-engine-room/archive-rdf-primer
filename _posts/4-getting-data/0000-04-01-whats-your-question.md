@@ -2,7 +2,6 @@
 layout: page
 title: "What's your question?"
 category: getting-data
-date: 0000-04-01 13:20:10
 ---
 
 Any evidence-based project relies on the complex, nuanced and deeply important process of collecting data. This chapter will address considerations around data collection: from defining your question, through to practical procedures for dealing with new and found data, to questions of agency, consent and privacy.

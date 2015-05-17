@@ -2,7 +2,6 @@
 layout: page
 title: "Project Closure - What Happens to the Data?"
 category: closing-a-project
-date: 0000-07-01 13:20:10
 ---
 Projects end for many reasons. Funding cycles may close. Project goals might be achieved. Even if a project has not ended, the data lifecycle may end during a project, when data no longer needs to be collected and/or referenced in the project.
 

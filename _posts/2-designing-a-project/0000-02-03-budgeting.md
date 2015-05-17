@@ -2,7 +2,6 @@
 layout: page
 title: "Budgeting"
 category: designing-a-project
-date: 0000-02-03 13:20:10
 ---
 
 >Do we have a line item for that? Oops....

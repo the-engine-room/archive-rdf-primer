@@ -2,7 +2,6 @@
 layout: page
 title: "Getting Data Resources"
 category: additional-resources
-date: 0000-08-04 13:20:10
 ---
 **Conducting safe, effective and ethical Interviews with survivors of Sexual and Gender-Based Violence (WITNESS)**
 http://www.scribd.com/doc/159998474/Conducting-Safe-Effective-and-Ethical-Interviews-with-Survivors-of-Sexual-and-Gender-Based-Violence
