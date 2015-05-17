@@ -1,8 +1,12 @@
 ---
 layout: page
-title: "A home for healthy data"
-category: managing-data
+title: A home for healthy data
+category: "managing-data"
+published: true
 ---
+
+
+![chapter-image]({{site.baseurl}}/assets/icons/icon-managing.png)
 
 ##Give your data a safe space
 
