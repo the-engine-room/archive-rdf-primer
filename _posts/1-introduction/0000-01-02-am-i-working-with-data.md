@@ -21,13 +21,13 @@ Courtesy of [Jim Makos](https://flic.kr/p/mZfRiz), [CC BY-NC-ND 2.0](https://cre
 
 As is this:
 
-![]({{site.baseurl}}/assets/1.2.what-is-data-2.jpg)
+![]({{site.baseurl}}/assets/1.2.what-is-data-2.png)
 
 Courtesy of [Jeffrey Veen](https://www.flickr.com/photos/veen/490313317/), [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 But so is this:
 
-![]({{site.baseurl}}/assets/1.2.what-is-data-3.jpg)
+![]({{site.baseurl}}/assets/1.2.what-is-data-3.jpeg)
 
 ...if you are studying LOL cats.  
 
