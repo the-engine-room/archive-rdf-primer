@@ -6,7 +6,7 @@ published: true
 ---
 
 
-![]({{site.baseurl}}/assets/icons/icon-designing.png =250x)
+![chapter-image]({{site.baseurl}}/assets/icons/icon-designing.png)
 
 Rapid changes in the way that information functions in development programming demands a careful consideration of responsible data challenges and practices. This requires engagement and input from all various expertise and perspectives across project teams, but will be the most efficient and impactful if addressed in project design. Here follow a few tips to help you get started on the right path.  
 
