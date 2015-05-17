@@ -28,6 +28,7 @@ Responsible data isn't a zero sum game. Sometimes there are trade-offs to make, 
 > All our data is encrypted, so it's fine.
 
 ![XKCD on Security](http://imgs.xkcd.com/comics/security.png)
+
 Source: [XKCD](http://xkcd.com/538/)
 
 There are some great technological tactics that we can use to improve our digital security - but it's rarely infallible. You could encrypt your hard drive in case someone steals it - but what if they steal it, then use physical threats to get the password?
