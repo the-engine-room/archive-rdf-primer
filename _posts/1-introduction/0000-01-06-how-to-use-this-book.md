@@ -5,9 +5,8 @@ category: introduction
 published: true
 ---
 
-TEST
 
-_Light Bulb designed by A.Dinagar from the Noun Project - www.thenounproject.com_
+1.6.cycle.png
 
 We divided this book into thematic, independently readable sections that let you dig right into the part that is most relevant to your current objective. The six main sections try to cover the spectrum of considerations, practical methods and responsible data challenges in different phases of a project. While sections sometimes refer to other parts of the book, each module can be read independently. Should you prefer to read the book in the traditional way, the sections follow a narrative logic that is closely related to different steps of the project evolution.
 
