@@ -4,7 +4,8 @@ title: Home
 published: true
 ---
 
-TEST TEST
+
+TEST
 
 ![RDF Primer cover](https://responsibledata.io/wp-content/uploads/2014/10/RDF-book-cover-724x1024.png)
 
