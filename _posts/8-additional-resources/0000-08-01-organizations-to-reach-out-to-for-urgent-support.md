@@ -18,3 +18,7 @@ http://www.frontlinedefenders.org/emergency
 **Urgent Action Fund for Women's Human Rights**
 Urgent Action Fund supports women activists who are being threatened because of their work defending human rights. The Evacuation Grant is a specific type of Rapid Response Grant, designed for those in urgent need of relocation funding because of threats, persecution and/or an extreme security situation.
 http://urgentactionfund.org/apply-for-a-grant/apply-for-an-evacuation-grant/
+
+**Online Directory of Urgent Responses for WHRDs**  
+This Online Directory was produced by the Association for Women in Development and the WHRD International Coalition in 2011. It outlines the diverse urgent responses for human rights defenders that exist and, where available, those that are specific to WHRDs.
+http://urgent-responses.awid.org/
