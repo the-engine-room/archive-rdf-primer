@@ -5,7 +5,7 @@ category: understanding-data
 ---
 ##Can I trust what my data set is telling me?
 
-At this phase, you have already collected your data, cleaned it up, described it and standardised its formats and inputs (if you haven't, you might want to have a look at the previous chapter on verifying, cleaning, and preparing your data. Your data set is begging to be analysed. It might be chock full of interesting informational clues that you can't wait to pull out and present. You have a distinct feeling that the data set you have is going to answer your questions: more importantly, you are pretty sure it will give you the answers you want.
+At this phase, you have already collected your data, cleaned it up, described it and standardised its formats and inputs (if you haven't, you might want to have a look at the previous chapter on verifying, cleaning, and preparing your data). Your data set is begging to be analysed. It might be chock full of interesting informational clues that you can't wait to pull out and present. You have a distinct feeling that the data set you have is going to answer your questions: more importantly, you are pretty sure it will give you the answers you want.
 
 But wait! Before analyzing your data, this is the right moment to examine **your assumptions** (and those of others) about the data set. There are numerous pitfalls when trying to answer questions from data. In this chapter we will discuss various challenges that may arise when looking into the collected data. The optimal situation would be that these considerations have already been made during your design phase, but in real life you are often faced with data already collected by someone else, leaving you to make sense of it. We aim to cover both situations here.
 
