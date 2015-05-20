@@ -23,7 +23,7 @@ All data, no matter how it is collected, will contain a certain amount of bias. 
 >**Bias** is the tendency of results to favor a certain outcome, due to the implicit construction or logic of the collection or processing of the data, the way that the data was collected (setting, sequence of questions) and the way that the data is analysed.
 Below we will address some specific points that are useful for spotting red flags in your data.
 
-Some data is collected using a **sample** of the universe or total population, on the basis of which we make generalisations about the phenomenon. Being aware of sampling basis, how it impacts analysis and limits what we can say about the overall population. Was your sample sufficient to allow for certain types of conclusions? Did it bias your analysis and findings in any way?
+Some data is collected using a **sample** of the universe or total population, on the basis of which we make generalisations about the phenomenon. Being aware of sampling bias, how it impacts analysis and limits what we can say about the overall population is important. Was your sample sufficient to allow for certain types of conclusions? Did it bias your analysis and findings in any way?
 
 In the planning and design phase, bias can be introduced when focus issues and topics are selected.  In the data collection process we can have **response** bias due to the phrasing or sequence of the questions asked or the setting of the data collection site. One issue is **cultural bias**, where some answers are more socially desirable then others, and may skew the result.
 
