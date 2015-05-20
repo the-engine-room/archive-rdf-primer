@@ -15,7 +15,7 @@ Once the data is published, there is no turning back.
 
 ##What data should be de-identified?
 
-The short answer is, any and all data that has any potential to identify a person  But it is still important to conduct a thorough risk assessment of the possible consequences of data release during project design and update it before release. Once the data is out, it's too late. Consider the following:
+The short answer is, any and all data that has any potential to identify a person.  But it is still important to conduct a thorough risk assessment of the possible consequences of data release during project design and update it before release. Once the data is out, it's too late. Consider the following:
 
 * Can an individual be identified from the data, or, from the data and other relatively accessible information?
 * Does the data ‘relate to’ the identifiable individual, whether in personal or family life, business or profession?
