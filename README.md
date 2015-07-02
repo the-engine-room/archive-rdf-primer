@@ -55,7 +55,4 @@ We recommend [prose.io](http://prose.io/) for editing the markdown files directl
 
 ##Enjoy!
 
-
-
-
-
+We're looking forward to your comments and contributions and hope this document will be useful for your work.
