@@ -1,6 +1,4 @@
-#Ways to practice responsible development data
-The online living document
-_________________________
+#Ways to practice responsible development data - the online living document
 
 ##About the book
 
