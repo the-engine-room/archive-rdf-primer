@@ -20,15 +20,16 @@ The collective knowledge of the 13 co-writers is impressive, but the real life c
 
 Just select any part of the text and leave your comment in the sidebar. You'll also be able to see where others have commented, and respond to their comments. We are using the amazing [hypothes.is](https://hypothes.is/) plugin for commenting. You'll need to create a hypothes.is account to save your comment: [we trust hypothes.is](https://hypothes.is/principles/) to treat your data responsibly, and you can sign in pseudonimously as well.
 
-###2. Fork the repo, make changes, and send us a pull request
+###2. File issues, fork the repo, make changes, and send us a pull request
 
 For the more tech-savvy users: you can use all the usual Github collaborative development techniques. Fork, branch, push, pull, spoon (maybe don't spoon). There are many good tutorials for using git and Github, [like this one](https://try.github.io/levels/1/challenges/1).
 
-###3. Get in touch!
+###3. Contact us
 
 Prefer to do it the old fashioned way? We got you covered. Just send an email to contact AT responsibledata DOT io.
 
-##Tech specs
+#Tech specs
+________________________
 
 Do you like how we built this site? We think it's pretty nifty. Here's the rundown of the tech we're using, if you want to roll your own similar project.
 
@@ -54,7 +55,7 @@ Hypothes.is takes care of everything else. They also have browser plugins, bookm
 
 We recommend [prose.io](http://prose.io/) for editing the markdown files directly in your browser. You link it to your Github account, and prose.io lets you easily edit files with a clean and minimal interface. No need to download or install anything. Prose.io is developed and maintained by the great people at [Development Seed](http://developmentseed.org/).
 
-##Get in touch
+##Enjoy!
 
 
 
