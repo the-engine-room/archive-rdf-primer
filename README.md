@@ -53,6 +53,6 @@ Hypothes.is takes care of everything else. They also have browser plugins, bookm
 
 We recommend [prose.io](http://prose.io/) for editing the markdown files directly in your browser. You link it to your Github account, and prose.io lets you easily edit files with a clean and minimal interface. No need to download or install anything. Prose.io is developed and maintained by the great people at [Development Seed](http://developmentseed.org/).
 
-##Enjoy!
+##Enjoy.
 
 We're looking forward to your comments and contributions and hope this document will be useful for your work.
