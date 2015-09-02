@@ -22,6 +22,7 @@ Here are some top tips to help you get your responsible design hat on.
 - Plan ahead: map the lifecycle of the relevant project or system - it might change, but it's good to have a starting point.
 
 - Keep a timeline in mind: Consider what a reasonable timespan might be- how long do you want to future proof the practice or the system for? Be realistic here: it's impossible to know what's around the corner, but there are things you can do.
+
 - Factor in data: Fill in the points when data may be relevant in this lifecycle and what the design implications are
 
 - Wait...why data?: Think through the options for how data can be handled or processed at each point, and - importantly - consider alternatives to the obvious or usual way of doing things before deciding it is in fact the best approach
